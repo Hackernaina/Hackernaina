@@ -17,6 +17,6 @@ I'm Nainika
 
 ## 🤝 Connect With Me
 
-📧 **Email:** [nainikaagrawal073@gmail.com](mailto:nainikaagrawal073@gmail.com)
+[![Email](https://img.shields.io/badge/Email-nainikaagrawal073%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nainikaagrawal073@gmail.com)
 
-💼 **LinkedIn:** [Connect with me on LinkedIn](www.linkedin.com/in/nainika-agrawal-007395289)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR-LINKEDIN-URL)

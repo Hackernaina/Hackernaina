@@ -19,4 +19,4 @@ I'm Nainika
 
 [![Email](https://img.shields.io/badge/Email-nainikaagrawal073%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nainikaagrawal073@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR-LINKEDIN-URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nainika-agrawal-007395289)
